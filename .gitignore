@@ -1,0 +1,23 @@
+# Entornos y cache de Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Artefactos de conversion de los PDF del curso
+* conv.html
+* conv.txt
+
+# Documentos fuente del curso (no forman parte del entregable)
+guia_proyecto_del_curso_202602.pdf
+Guía Entregable I – Predicción de la intención de compra (UCI #468).pdf
+Primera_entrega_modelos_II-2.pdf
+
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Archivos temporales de Word
+~$*

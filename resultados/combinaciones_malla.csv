@@ -1,0 +1,6 @@
+modelo,combinaciones
+Regresion_logistica,16
+kNN,24
+RandomForest,32
+MLP,24
+SVM,48

@@ -1,0 +1,11 @@
+{
+  "sha256_csv": "b3055ee355f59134d851d32641183cb4a8b45def7124d2f50442a042f358e0d9",
+  "semilla": 42,
+  "python": "3.13.5",
+  "sklearn": "1.7.2",
+  "n_train": 7323,
+  "n_validacion": 2441,
+  "n_test": 2441,
+  "duplicados_eliminados": 125,
+  "tiempo_total_seg": 718.8
+}

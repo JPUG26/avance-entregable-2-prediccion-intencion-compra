@@ -1,0 +1,4 @@
+particion,n,positivos,negativos,proporcion_compra
+Entrenamiento,7323,1145,6178,0.15635668441895398
+Validacion,2441,381,2060,0.1560835723064318
+Test,2441,382,2059,0.15649324047521507

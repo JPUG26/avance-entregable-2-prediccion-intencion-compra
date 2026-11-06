@@ -1,0 +1,216 @@
+{
+  "archivo": "clipboard_1790819347953_online_shoppers_intention.csv",
+  "sha256": "b3055ee355f59134d851d32641183cb4a8b45def7124d2f50442a042f358e0d9",
+  "filas": 12330,
+  "columnas": 18,
+  "nulos_totales": 0,
+  "duplicados_exactos": 125,
+  "tipos": {
+    "Administrative": "int64",
+    "Administrative_Duration": "float64",
+    "Informational": "int64",
+    "Informational_Duration": "float64",
+    "ProductRelated": "int64",
+    "ProductRelated_Duration": "float64",
+    "BounceRates": "float64",
+    "ExitRates": "float64",
+    "PageValues": "float64",
+    "SpecialDay": "float64",
+    "Month": "object",
+    "OperatingSystems": "int64",
+    "Browser": "int64",
+    "Region": "int64",
+    "TrafficType": "int64",
+    "VisitorType": "object",
+    "Weekend": "bool",
+    "Revenue": "bool"
+  },
+  "faltantes_por_columna": {},
+  "clases": {
+    "False": 10422,
+    "True": 1908
+  },
+  "proporcion_compra": 0.15474452554744525,
+  "categorias": {
+    "Month": {
+      "May": 3364,
+      "Nov": 2998,
+      "Mar": 1907,
+      "Dec": 1727,
+      "Oct": 549,
+      "Sep": 448,
+      "Aug": 433,
+      "Jul": 432,
+      "June": 288,
+      "Feb": 184
+    },
+    "OperatingSystems": {
+      "2": 6601,
+      "1": 2585,
+      "3": 2555,
+      "4": 478,
+      "8": 79,
+      "6": 19,
+      "7": 7,
+      "5": 6
+    },
+    "Browser": {
+      "2": 7961,
+      "1": 2462,
+      "4": 736,
+      "5": 467,
+      "6": 174,
+      "10": 163,
+      "8": 135,
+      "3": 105,
+      "13": 61,
+      "7": 49,
+      "12": 10,
+      "11": 6,
+      "9": 1
+    },
+    "Region": {
+      "1": 4780,
+      "3": 2403,
+      "4": 1182,
+      "2": 1136,
+      "6": 805,
+      "7": 761,
+      "9": 511,
+      "8": 434,
+      "5": 318
+    },
+    "TrafficType": {
+      "2": 3913,
+      "1": 2451,
+      "3": 2052,
+      "4": 1069,
+      "13": 738,
+      "10": 450,
+      "6": 444,
+      "8": 343,
+      "5": 260,
+      "11": 247,
+      "20": 198,
+      "9": 42,
+      "7": 40,
+      "15": 38,
+      "19": 17,
+      "14": 13,
+      "18": 10,
+      "16": 3,
+      "12": 1,
+      "17": 1
+    },
+    "VisitorType": {
+      "Returning_Visitor": 10551,
+      "New_Visitor": 1694,
+      "Other": 85
+    },
+    "Weekend": {
+      "False": 9462,
+      "True": 2868
+    },
+    "SpecialDay": {
+      "0.0": 11079,
+      "0.6": 351,
+      "0.8": 325,
+      "0.4": 243,
+      "0.2": 178,
+      "1.0": 154
+    }
+  },
+  "rango_numericas": {
+    "Administrative": {
+      "min": 0.0,
+      "max": 27.0,
+      "media": 2.3151662611516626,
+      "desv": 3.3217841061569113,
+      "ceros": 5768,
+      "asimetria": 1.9603572090790138
+    },
+    "Administrative_Duration": {
+      "min": 0.0,
+      "max": 3398.75,
+      "media": 80.81861053933592,
+      "desv": 176.77910747048634,
+      "ceros": 5903,
+      "asimetria": 5.61571901877419
+    },
+    "Informational": {
+      "min": 0.0,
+      "max": 24.0,
+      "media": 0.5035685320356853,
+      "desv": 1.270156425983391,
+      "ceros": 9699,
+      "asimetria": 4.03646375994314
+    },
+    "Informational_Duration": {
+      "min": 0.0,
+      "max": 2549.375,
+      "media": 34.47239792772304,
+      "desv": 140.74929442219795,
+      "ceros": 9925,
+      "asimetria": 7.579184715734216
+    },
+    "ProductRelated": {
+      "min": 0.0,
+      "max": 705.0,
+      "media": 31.731467964314678,
+      "desv": 44.47550330493652,
+      "ceros": 38,
+      "asimetria": 4.341516415550066
+    },
+    "ProductRelated_Duration": {
+      "min": 0.0,
+      "max": 63973.52223,
+      "media": 1194.7462199688268,
+      "desv": 1913.6692878720035,
+      "ceros": 755,
+      "asimetria": 7.263227682561318
+    },
+    "BounceRates": {
+      "min": 0.0,
+      "max": 0.2,
+      "media": 0.02219138047072182,
+      "desv": 0.048488321806260656,
+      "ceros": 5518,
+      "asimetria": 2.947855266695535
+    },
+    "ExitRates": {
+      "min": 0.0,
+      "max": 0.2,
+      "media": 0.04307279776650446,
+      "desv": 0.048596540551443565,
+      "ceros": 76,
+      "asimetria": 2.1487889999009804
+    },
+    "PageValues": {
+      "min": 0.0,
+      "max": 361.7637419,
+      "media": 5.889257862693593,
+      "desv": 18.568436607806525,
+      "ceros": 9600,
+      "asimetria": 6.3829642489981335
+    },
+    "SpecialDay": {
+      "min": 0.0,
+      "max": 1.0,
+      "media": 0.061427412814274114,
+      "desv": 0.19891727315262864,
+      "ceros": 11079,
+      "asimetria": 3.3026667472572897
+    }
+  },
+  "valores_especialday": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+  ],
+  "version_python": "3.13.5",
+  "version_sklearn": "1.7.2",
+  "semilla": 42
+}

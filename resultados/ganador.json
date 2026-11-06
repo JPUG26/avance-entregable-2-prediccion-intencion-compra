@@ -1,0 +1,5 @@
+{
+  "modelo": "RandomForest",
+  "criterio": "mayor AP media de CV por familia; mayor AP en validacion entre finalistas",
+  "AP_validacion": 0.7247122236223896
+}

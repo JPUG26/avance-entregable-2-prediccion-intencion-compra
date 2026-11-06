@@ -1,0 +1,6 @@
+modelo,mejores_hiperparametros,AP_CV,std_CV,tiempo_seg
+RandomForest,"{""clf__class_weight"": null, ""clf__max_depth"": 12, ""clf__max_features"": ""sqrt"", ""clf__min_samples_leaf"": 1, ""pre__num__log__usar_log"": true}",0.7531505650864327,0.03496482251000137,52.31773233413696
+MLP,"{""clf__alpha"": 0.0001, ""clf__hidden_layer_sizes"": [64], ""clf__learning_rate_init"": 0.01, ""pre__num__log__usar_log"": true}",0.729354006574404,0.03911776363446021,13.687620401382446
+SVM,"{""clf__C"": 10, ""clf__class_weight"": null, ""clf__gamma"": 0.01, ""clf__kernel"": ""rbf"", ""pre__num__log__usar_log"": true}",0.7265851520647685,0.033579164779107676,148.88120770454407
+kNN,"{""clf__n_neighbors"": 31, ""clf__p"": 2, ""clf__weights"": ""distance"", ""pre__num__log__usar_log"": true}",0.7124325523380011,0.026955210371963894,10.32987928390503
+Regresion_logistica,"{""clf__C"": 0.1, ""clf__class_weight"": null, ""pre__num__log__usar_log"": true}",0.689678974384505,0.03196829989325587,7.087162494659424

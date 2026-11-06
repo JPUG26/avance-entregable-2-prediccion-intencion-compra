@@ -1,0 +1,12 @@
+{
+  "valores_unicos": [
+    0.0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1.0
+  ],
+  "correlacion_representaciones_escaladas": 1.0,
+  "conclusion": "SpecialDay es equiespaciado; la codificacion ordinal es una transformacion afín de la numerica, por lo que tras estandarizar ambas representaciones son identicas."
+}
